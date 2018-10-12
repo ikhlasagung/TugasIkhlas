@@ -1,0 +1,30 @@
+D:\vibi.net\Pengajuan Vibi\Pengajuan Vibi\bin\Debug\Pengajuan Vibi.exe
+D:\vibi.net\Pengajuan Vibi\Pengajuan Vibi\bin\Debug\Pengajuan Vibi.pdb
+D:\vibi.net\Pengajuan Vibi\Pengajuan Vibi\bin\Debug\Pengajuan Vibi.xml
+D:\vibi.net\Pengajuan Vibi\Pengajuan Vibi\obj\x86\Debug\Pengajuan_Vibi.Form1.resources
+D:\vibi.net\Pengajuan Vibi\Pengajuan Vibi\obj\x86\Debug\Pengajuan_Vibi.Resources.resources
+D:\vibi.net\Pengajuan Vibi\Pengajuan Vibi\obj\x86\Debug\Pengajuan Vibi.vbproj.GenerateResource.Cache
+D:\vibi.net\Pengajuan Vibi\Pengajuan Vibi\obj\x86\Debug\Pengajuan Vibi.exe
+D:\vibi.net\Pengajuan Vibi\Pengajuan Vibi\obj\x86\Debug\Pengajuan Vibi.xml
+D:\vibi.net\Pengajuan Vibi\Pengajuan Vibi\obj\x86\Debug\Pengajuan Vibi.pdb
+D:\fikri\Pengajuan Vibi\Pengajuan Vibi\obj\x86\Debug\Pengajuan Vibi.exe
+D:\fikri\Pengajuan Vibi\Pengajuan Vibi\obj\x86\Debug\Pengajuan Vibi.xml
+D:\fikri\Pengajuan Vibi\Pengajuan Vibi\obj\x86\Debug\Pengajuan Vibi.pdb
+D:\fikri\Pengajuan Vibi\Pengajuan Vibi\bin\Debug\Pengajuan Vibi.exe
+D:\fikri\Pengajuan Vibi\Pengajuan Vibi\bin\Debug\Pengajuan Vibi.pdb
+D:\fikri\Pengajuan Vibi\Pengajuan Vibi\bin\Debug\Pengajuan Vibi.xml
+D:\fikri\Pengajuan Vibi\Pengajuan Vibi\obj\x86\Debug\Pengajuan_Vibi.Form1.resources
+D:\fikri\Pengajuan Vibi\Pengajuan Vibi\obj\x86\Debug\Pengajuan_Vibi.Resources.resources
+D:\fikri\Pengajuan Vibi\Pengajuan Vibi\obj\x86\Debug\Pengajuan Vibi.vbproj.GenerateResource.Cache
+D:\ikhlas\Pengajuan Vibi\Pengajuan Vibi\obj\x86\Debug\Pengajuan Vibi.exe
+D:\ikhlas\Pengajuan Vibi\Pengajuan Vibi\obj\x86\Debug\Pengajuan Vibi.xml
+D:\ikhlas\Pengajuan Vibi\Pengajuan Vibi\obj\x86\Debug\Pengajuan Vibi.pdb
+D:\ikhlas\Pengajuan Vibi\Pengajuan Vibi\bin\Debug\Pengajuan Vibi.exe
+D:\ikhlas\Pengajuan Vibi\Pengajuan Vibi\bin\Debug\Pengajuan Vibi.pdb
+D:\ikhlas\Pengajuan Vibi\Pengajuan Vibi\bin\Debug\Pengajuan Vibi.xml
+D:\ikhlas\Pengajuan Vibi\Pengajuan Vibi\obj\x86\Debug\Pengajuan_Vibi.Form1.resources
+D:\ikhlas\Pengajuan Vibi\Pengajuan Vibi\obj\x86\Debug\Pengajuan_Vibi.Resources.resources
+D:\ikhlas\Pengajuan Vibi\Pengajuan Vibi\obj\x86\Debug\Pengajuan Vibi.vbproj.GenerateResource.Cache
+F:\ikhlas\Pengajuan Vibi\Pengajuan Vibi\obj\x86\Debug\Pengajuan Vibi.exe
+F:\ikhlas\Pengajuan Vibi\Pengajuan Vibi\obj\x86\Debug\Pengajuan Vibi.xml
+F:\ikhlas\Pengajuan Vibi\Pengajuan Vibi\obj\x86\Debug\Pengajuan Vibi.pdb
